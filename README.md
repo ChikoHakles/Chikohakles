@@ -6,10 +6,11 @@ Interested in anything new for me, as i took it as a challenges.
 🌱 I’m currently learning:
 - PHP Native
 - Vanilla JavaScript
-- NextJS
+- Java
 
 🤔 I’m looking for help with:
 Anyone who can freely discuss with me about anything, especially about programming.
+Java Enthusiast that willing to teach me many things about Java Programming.
 
 ⚡ Fun fact:
 - Like to talk and share about history, legends, and myth, as like as liking programming.
